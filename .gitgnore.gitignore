@@ -1,0 +1,7 @@
+myenv
+.env
+faiss_index
+.venv
+venv
+.gitattributes
+python-version.python-version
