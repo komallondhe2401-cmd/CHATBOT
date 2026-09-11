@@ -211,67 +211,6 @@ The final answer is displayed through:
 
 ---
 
-
----
-
-## ⚙️ Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
-```
-
-```bash
-cd RAG-Chatbot
-```
-
-### 2. Create a Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-Activate it on Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-For macOS/Linux:
-
-```bash
-source venv/bin/activate
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Configure API Keys
-
-Create a `.env` file in the project root:
-
-```env
-GOOGLE_API_KEY=your_google_gemini_api_key
-TELEGRAM_BOT_TOKEN=your_telegram_bot_token
-```
-
-**Never upload your `.env` file or API keys to GitHub.**
-
-Add this to `.gitignore`:
-
-```text
-.env
-venv/
-__pycache__/
-*.pyc
-```
-
----
-
 ## ▶️ Running the Streamlit Application
 
 Run:
@@ -396,15 +335,11 @@ Add your project screenshots here:
 
 ### Streamlit Interface
 
-![Streamlit Interface](assets/screenshots/streamlit.png)
-
-### RAG Chat
-
-![RAG Chat](assets/screenshots/chat.png)
+![Schatbot_desktop](chatbot_desktop.png)
 
 ### Telegram Bot
 
-![Telegram Bot](assets/screenshots/telegram.png)
+![Tchatbot_telegram](chatbot_telegram.png)
 ```
 
 ---
