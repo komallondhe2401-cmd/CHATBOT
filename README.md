@@ -326,24 +326,6 @@ Potential improvements include:
 
 ---
 
-## 📸 Screenshots
-
-Project screenshots here:
-
-```markdown
- 📸 Screenshots
-
-### 🖥️ Streamlit Interface
-
-![Streamlit Interface](./chatbot_desktop.png)
-
-### 📱 Telegram Bot
-
-![Telegram Bot](./chatbot_telegram.png)
-```
-
----
-
 ## 🔐 Security
 
 API keys and sensitive credentials should never be committed to the repository.
