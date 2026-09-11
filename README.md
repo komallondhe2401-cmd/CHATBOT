@@ -328,18 +328,18 @@ Potential improvements include:
 
 ## 📸 Screenshots
 
-Add your project screenshots here:
+Project screenshots here:
 
 ```markdown
-## 📸 Screenshots
+ 📸 Screenshots
 
-### Streamlit Interface
+### 🖥️ Streamlit Interface
 
-![chatbot_desktop](chatbot_desktop.png)
+![Streamlit Interface](./chatbot_desktop.png)
 
-### Telegram Bot
+### 📱 Telegram Bot
 
-![chatbot_telegram](chatbot_telegram.png)
+![Telegram Bot](./chatbot_telegram.png)
 ```
 
 ---
