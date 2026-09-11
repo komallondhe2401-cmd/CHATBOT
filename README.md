@@ -219,9 +219,9 @@ Run:
 streamlit run app.py
 ```
 
-The application will open in your browser.
+The application will open in browser.
 
-Upload your PDF document and start asking questions.
+Upload PDF document and start asking questions.
 
 ---
 
@@ -233,7 +233,7 @@ After configuring the Telegram bot token:
 python telegram_bot.py
 ```
 
-Open Telegram, search for your configured bot, and send your questions.
+Open Telegram, search for configured bot, and send the questions.
 
 ---
 
@@ -323,29 +323,6 @@ Potential improvements include:
 * [ ] Cloud deployment
 * [ ] React-based frontend
 * [ ] React Native mobile application
-
----
-
-## 🔐 Security
-
-API keys and sensitive credentials should never be committed to the repository.
-
-Use environment variables:
-
-```env
-GOOGLE_API_KEY=your_api_key
-TELEGRAM_BOT_TOKEN=your_bot_token
-```
-
-And add:
-
-```text
-.env
-```
-
-to `.gitignore`.
-
-If an API key is accidentally pushed to GitHub, revoke it immediately and generate a new one.
 
 ---
 
