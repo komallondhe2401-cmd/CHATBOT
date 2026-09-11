@@ -335,11 +335,11 @@ Add your project screenshots here:
 
 ### Streamlit Interface
 
-![Schatbot_desktop](chatbot_desktop.png)
+![chatbot_desktop](chatbot_desktop.png)
 
 ### Telegram Bot
 
-![Tchatbot_telegram](chatbot_telegram.png)
+![chatbot_telegram](chatbot_telegram.png)
 ```
 
 ---
